@@ -9,3 +9,6 @@ Once the object color has been identified, the system uses blob detection to det
 The robot then uses this information to adjust its movement and follow the object as it moves within the camera's field of view. The system continuously updates the object's position and adjusts the robot's movement accordingly to ensure that it stays on track.
 
 Overall, a robot object follower using OpenCV and Python is a powerful tool that can be used for a wide range of applications, from manufacturing and logistics to surveillance and security. It offers precise and reliable object tracking, which can significantly improve operational efficiency and productivity.
+
+You can download the .apk file by this link 
+https://drive.google.com/file/d/1HHmgo7FEPhz0FCJyhO1ZLxZnJkJWyBa4/view?usp=share_link
